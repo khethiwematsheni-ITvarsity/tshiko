@@ -208,7 +208,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../images/Electrical-Wiring.jpg) no-repeat;
+    background:url(../images/IMG_20221027_084134.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -220,7 +220,7 @@ section{
 .home .content h3{
     font-size: 6rem;
     text-transform: uppercase;
-    color:#fff;
+    color:black;
 }
 
 .home .content p{
@@ -228,7 +228,7 @@ section{
     font-weight: lighter;
     line-height: 1.8;
     padding:1rem 0;
-    color:#eee;
+    color:black;
 }
 
 .about .row{
