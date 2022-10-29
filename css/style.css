@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
-    --main-color:#f18c2d;
+    --main-color:#ff7c00;
     --grayblack:rgb(46, 43, 43);
     --bg:white;
     --border:.1rem solid rgba(43, 41, 41, 0.3);
@@ -328,7 +328,7 @@ section{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: #f18c2d;
+    color: #ff7c00;
     transition: color 0.3s ease;
 }
 
@@ -337,11 +337,11 @@ section{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-    color:#f18c2d;
+    color:#ff7c00;
 }
 
 .services .serv-content .card{
-    width: calc(60% - -30px);
+    width: calc(50% - 10px);
     margin-bottom: 20px;
 }
 
@@ -376,7 +376,7 @@ section{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding:1rem 0;
     font-size: 2rem;
-    color: #f18c2d;
+    color: #ff7c00;
 }
 
 .review .box-container .box .stars i{
@@ -403,7 +403,7 @@ section{
     flex:1 1 45rem;
     padding:5rem 2rem;
     text-align: center;
-    color: #f18c2d;
+    color: #ff7c00;
 }
 
 .contact .row h3{
