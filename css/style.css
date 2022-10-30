@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500&display=swap');
 
 :root{
     --main-color:#ff7c00;
@@ -44,6 +44,7 @@ section{
 }
 
 .heading{
+    font-family: 'Readex Pro', sans-serif;;
     text-align: center;
     color:rgb(46, 43, 43);
     text-transform: uppercase;
@@ -218,14 +219,14 @@ section{
 }
 
 .home .content h3{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Readex Pro', sans-serif;;
     font-size: 6rem;
     text-transform: uppercase;
     color:#ff7c00;
 }
 
 .home .content p{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Readex Pro', sans-serif;;
     font-size: 2rem;
     font-weight: lighter;
     line-height: 1.8;
@@ -256,7 +257,7 @@ section{
 .about .row .content h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3rem;
-    color:rgb(46, 43, 43);
+    color:#ff7c00;
 }
 
 .about .row .content p{
@@ -295,7 +296,7 @@ section{
 .services .row .content h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3rem;
-    color:rgb(46, 43, 43);
+    color:#ff7c00;
 }
 
 .services .row .content p{
